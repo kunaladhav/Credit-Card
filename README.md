@@ -2,8 +2,7 @@
 <h4> New Things Learned </h4>
 <ul>
 <ul>
-    <li>Liner Gradient</li>
-    <li>Backdrop Filter</li>   
-    <li>Transform</li>
+    <li>What and when to use container class</li>
+    <li>What and when to use flex-end, flex-start, space-between, space-around</li>
 </ul>
 </ul>
